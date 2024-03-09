@@ -5,7 +5,7 @@
 ##
 
 - src: geerlingguy.pip
-  version: 2.1.0
+  version: 3.0.3
 
 - src: geerlingguy.docker
   version: 4.1.3
